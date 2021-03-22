@@ -1,0 +1,12 @@
+.Box{ width: 12px;
+height: 12;
+border: 12;
+margin: 12;
+position: relative;
+background: violet;}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }

@@ -1,0 +1,35 @@
+h1 {color:blue }
+h1 {
+    background-color: red; 
+}
+h2 {color:red } 
+h2 {
+    background-color: green; 
+}
+  
+
+  word {
+    font-size: 16px;
+    font-family: monospace;
+  }
+word {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+
+  p {
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    text-align: center;
+}
+
+p2 {border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    text-align: center;}
+
+p3 {border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    text-align: center;}
